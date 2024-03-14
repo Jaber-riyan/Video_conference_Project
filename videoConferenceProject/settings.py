@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ium)8&&4p#5&#hsy8=9zjjpmy0s3x7e1fl0_i(b)lo^*9=1%(v
 DEBUG = True
 
 ALLOWED_HOSTS = ["*"]
-CSRF_TRUSTED_ORIGINS = ['','https://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://apna-calling-room.onrender.com','https://*.127.0.0.1']
 
 
 # Application definition
